@@ -1,0 +1,34 @@
+html {
+    scroll-behavior: smooth;
+}
+
+/* Task 2, 3, 4 */
+body {
+    color: var(--text-color);
+    font-family: var(--font-family-base);
+}
+
+/* Task 2, 3 */
+a {
+    color: var(--text-color);
+}
+
+/* Task 4 */
+h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-family-title);
+}
+
+/* Task 2 */
+.visually-hidden {
+    display: none;
+}
+
+/* Task 2, 3 */
+.card-category {
+    color: var(--color-primary);
+}
+
+/* Task 2, 3 */
+.section-tagline {
+    color: var(--color-primary);
+}
